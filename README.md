@@ -26,6 +26,6 @@ If you wanna help or just chat about code and share experiences with me just let
 
 ## About my codes!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasizza&langs_count=8)](https://github.com/brasizza)
-[![brasizza's GitHub stats](https://github-readme-stats.vercel.app/api?username=brasizza)](https://github.com/brasizz)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasizza&langs_count=8&theme=blue-green)](https://github.com/brasizza)
+[![brasizza's GitHub stats](https://github-readme-stats.vercel.app/api?username=brasizza&theme=blue-green)](https://github.com/brasizza)<br>
 
