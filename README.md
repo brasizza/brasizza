@@ -22,8 +22,10 @@ Meu nome é **MARCUS BRASIZZA**,  trabalho com programação e desenvolvimento d
 3. [Elgin](https://pub.dev/packages/elgin "Elgin")
 	Package para utilização de impressoras Elgin/Bematech e equipamentos PDV da fabricante
 
-4. [Elgin_sat](https://pub.dev/packages/elgin_sat "Elgin_sat")
+4. [Elgin_sat](https://pub.dev/packages/elgin_sat)
 	Package para utilização dos Sats diretamente no android tanto da Elgin quanto da Bematech
+5. [Gertec](https://pub.dev/packages/gertec)
+	Package para utilização dos equipamentos gertec no android
 
 
 
