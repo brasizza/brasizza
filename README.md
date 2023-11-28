@@ -31,4 +31,4 @@ Meu nome é **MARCUS BRASIZZA**,  trabalho com programação e desenvolvimento d
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brasizza&show_icons=true&locale=en" alt="brasizza" /></p>
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrasizza%2F&countColor=%23263759)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrasizza%2F&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbrasizza%2F)
