@@ -27,6 +27,9 @@ Meu nome é **MARCUS BRASIZZA**,  trabalho com programação e desenvolvimento d
 5. [Gertec](https://pub.dev/packages/gertec)
 	Package para utilização dos equipamentos gertec no android
 
+6. [Gertec Gs300](https://pub.dev/packages/gertec_gs300)
+	Package para utilização da cabeça de impressão do equipamento GS300 da gertec
+
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brasizza&show_icons=true&locale=en" alt="brasizza" /></p>
