@@ -1,38 +1,114 @@
-### Bem vindo ao meu GIT
+# 🧑‍💻 Marcus Vinicius Brasizza
 
-Meu nome é **MARCUS BRASIZZA**,  trabalho com programação e desenvolvimento de softwares desde os meus 11 anos
+Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repositórios relacionados às minhas áreas de atuação e interesses, como Flutter, PHP, Laravel, e muito mais.
 
-#### Linguagens e ferramentas que domino!
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
+---
 
-## [Já codou hoje blog](https://jacodouhoje.dev/)
-### Onde me encontrar
+## 📊 GitHub Stats
 
-<a href="https://www.youtube.com/@Jacodouhoje" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"  height="30" width="40" /></a><a href="https://linkedin.com/in/mbrasizza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mbrasizza" height="30" width="40" /></a><a href="https://instagram.com/marcus.brasizza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marcus.brasizza" height="30" width="40" /></a><a href="https://discord.gg/Brasizza#7615" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Brasizza#7615" height="30" width="40" /></a><a href="https://marcusbrasizza.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  height="30" width="40" /></a>
-------------
-### Minhas contribuições para a comunidade
-[Minha Página de packages publicados](https://pub.dev/publishers/marcus.brasizza.com/packages)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brasizza&show_icons=true&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=brasizza&theme=dark&hide_border=true)
+![Commits Per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brasizza&theme=dark&utcOffset=0)
 
-**Packages de flutter**
-1. [Sunmi_printer_plus](https://pub.dev/packages/sunmi_printer_plus "sunmi_printer_plus")
-	Package para impressão dos equipamentos da fabricande Sunmi
+---
 
-2. [Danfe](https://pub.dev/packages/danfe "Danfe")
-	Package para parsear, normatizar e transformar NFC-E , SAT-E e MF-E em objeto e buffer de impressão ESC/POS
+## 🔥 Principais Linguagens
 
-3. [Elgin](https://pub.dev/packages/elgin "Elgin")
-	Package para utilização de impressoras Elgin/Bematech e equipamentos PDV da fabricante
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brasizza&layout=compact&theme=dark)
 
-4. [Elgin_sat](https://pub.dev/packages/elgin_sat)
-	Package para utilização dos Sats diretamente no android tanto da Elgin quanto da Bematech
-5. [Gertec](https://pub.dev/packages/gertec)
-	Package para utilização dos equipamentos gertec no android
+---
 
-6. [Gertec Gs300](https://pub.dev/packages/gertec_gs300)
-	Package para utilização da cabeça de impressão do equipamento GS300 da gertec
+## 🚀 Contribuições Recentes
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brasizza&theme=react-dark&hide_border=true)
 
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=brasizza&show_icons=true&locale=en" alt="brasizza" /></p>
+## 📁 Projetos em Destaque
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrasizza%2F&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbrasizza%2F)
+### [🖨️ Sunmi](https://github.com/brasizza/sunmi)
+- 📱 Integração com impressoras Sunmi.
+- 🚀 Suporte completo para impressão térmica.
+
+### [🖨️ Elgin](https://github.com/brasizza/elgin)
+- ✍️ Biblioteca para comunicação com impressoras Elgin.
+- 🔧 Configuração e personalização avançada.
+
+### [📄 Danfe](https://github.com/brasizza/danfe)
+- 🧾 Geração de DANFE para documentos fiscais eletrônicos.
+- 📊 Compatível com diferentes layouts fiscais.
+
+### [📱 Gertec GS300](https://github.com/brasizza/gertec_gs300)
+- 📟 Suporte para dispositivos Gertec GS300.
+- 🔗 Conexão e operação otimizadas.
+
+### [🖨️ Elgin SAT](https://github.com/brasizza/elgin_sat)
+- 📠 Integração com sistemas SAT utilizando dispositivos Elgin.
+- 💼 Foco em automação comercial.
+
+---
+
+## 💡 Sobre Mim
+
+Sou desenvolvedor especializado em:
+- **Flutter**: Navegação, Provider, Dio e middleware.
+- **PHP**: Trabalhando com versões 5 e 7, além de otimizações em Redis e sessões.
+- **Laravel**: Construção de APIs robustas.
+- **Banco de Dados**: Experiência com MySQL e integrações avançadas.
+
+---
+
+## 📬 Como Entrar em Contato
+
+- **LinkedIn**: [Marcus Vinicius Brasizza](https://www.linkedin.com/in/brasizza)
+- **E-mail**: marcus@brasizza.com
+
+---
+
+## 🛠️ Tecnologias e Ferramentas
+
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?logo=dart&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat-square)
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white&style=flat-square)
+
+---
+
+## 🌟 Publicações no Pub.dev
+
+Confira os pacotes que publiquei no Pub.dev: [Marcus Vinicius Brasizza - Packages](https://pub.dev/publishers/marcus.brasizza.com/packages)
+
+---
+
+## 🎥 Meu Canal no YouTube
+
+Acesse meu canal no YouTube: [Jaco do Uhoje](https://www.youtube.com/@Jacodouhoje)
+- 🎬 Vídeos sobre desenvolvimento e tecnologia.
+- 📚 Tutoriais e dicas práticas.
+- 🚀 Soluções para Flutter, PHP e mais.
+
+---
+
+## ✍️ Meu Blog
+
+Leia artigos e tutoriais no meu blog: [Jaco do Uhoje Blog](https://jacodouhoje.dev/)
+- 📄 Conteúdo técnico sobre programação e desenvolvimento.
+- 💡 Ideias e reflexões sobre tecnologia.
+- 🔧 Dicas para otimizar fluxos de trabalho.
+
+---
+
+## 🎯 Metas Futuras
+
+- 💼 Expandir minha experiência em gerenciamento financeiro.
+- 🔒 Trabalhar mais com segurança de APIs e autenticação.
+- 🚀 Contribuir para projetos open-source relacionados a Flutter e PHP.
+
+---
+
+## 🌟 Dê seu Suporte
+
+Se você gostou do meu trabalho, considere dar uma ⭐ nos repositórios e me seguir! Obrigado pela visita! 🙌
+
