@@ -2,6 +2,8 @@
 
 Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repositórios relacionados às minhas áreas de atuação e interesses, como Flutter, PHP, Laravel, e muito mais.
 
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrasizza%2F&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbrasizza%2F)
+
 ---
 
 ## 📊 GitHub Stats
@@ -84,7 +86,7 @@ Confira os pacotes que publiquei no Pub.dev: [Marcus Vinicius Brasizza - Package
 
 ## 🎥 Meu Canal no YouTube
 
-Acesse meu canal no YouTube: [Jaco do Uhoje](https://www.youtube.com/@Jacodouhoje)
+Acesse meu canal no YouTube: [JaCodouHoje](https://www.youtube.com/@Jacodouhoje)
 - 🎬 Vídeos sobre desenvolvimento e tecnologia.
 - 📚 Tutoriais e dicas práticas.
 - 🚀 Soluções para Flutter, PHP e mais.
@@ -93,7 +95,7 @@ Acesse meu canal no YouTube: [Jaco do Uhoje](https://www.youtube.com/@Jacodouhoj
 
 ## ✍️ Meu Blog
 
-Leia artigos e tutoriais no meu blog: [Jaco do Uhoje Blog](https://jacodouhoje.dev/)
+Leia artigos e tutoriais no meu blog: [Ja codou hoje?](https://jacodouhoje.dev/)
 - 📄 Conteúdo técnico sobre programação e desenvolvimento.
 - 💡 Ideias e reflexões sobre tecnologia.
 - 🔧 Dicas para otimizar fluxos de trabalho.
