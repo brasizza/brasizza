@@ -28,7 +28,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 
 ## 📁 Projetos em Destaque
 
-### [🖨️ Sunmi](https://github.com/brasizza/sunmi)
+### [🖨️ Sunmi](https://github.com/brasizza/sunmi_printer)
 - 📱 Integração com impressoras Sunmi.
 - 🚀 Suporte completo para impressão térmica.
 
