@@ -4,28 +4,6 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fbrasizza%2F&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fbrasizza%2F)
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brasizza&show_icons=true&theme=dark)
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=brasizza&theme=dark&hide_border=true)
-![Commits Per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brasizza&theme=dark&utcOffset=0)
-
----
-
-## 🔥 Principais Linguagens
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brasizza&layout=compact&theme=dark)
-
----
-
-## 🚀 Contribuições Recentes
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brasizza&theme=react-dark&hide_border=true)
-
----
-
 ## 📁 Projetos em Destaque
 
 ### [🖨️ Sunmi](https://github.com/brasizza/sunmi_printer)
@@ -83,6 +61,27 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 ![GitHub contributors](https://img.shields.io/github/contributors/brasizza/elgin_sat)
 
 
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brasizza&show_icons=true&theme=dark)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=brasizza&theme=dark&hide_border=true)
+![Commits Per Hour](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brasizza&theme=dark&utcOffset=0)
+
+---
+
+## 🔥 Principais Linguagens
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brasizza&layout=compact&theme=dark)
+
+---
+
+## 🚀 Contribuições Recentes
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=brasizza&theme=react-dark&hide_border=true)
+
+---
 ---
 
 ## 💡 Sobre Mim
