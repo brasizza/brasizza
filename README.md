@@ -20,7 +20,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 - ✍️ Biblioteca para comunicação com impressoras Elgin.
 - 🔧 Configuração e personalização avançada.
   
-![Pub Monthly Downloads](https://img.shields.io/pub/dm/elgin)
+  ![Pub Monthly Downloads](https://img.shields.io/pub/dm/elgin)
 ![Pub Points](https://img.shields.io/pub/points/elgin)
 ![Pub Likes](https://img.shields.io/pub/likes/elgin)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/brasizza/elgin)
@@ -54,7 +54,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 - 📠 Integração com sistemas SAT utilizando dispositivos Elgin.
 - 💼 Foco em automação comercial.
   
-![Pub Monthly Downloads](https://img.shields.io/pub/dm/elgin_sat)
+  ![Pub Monthly Downloads](https://img.shields.io/pub/dm/elgin_sat)
 ![Pub Points](https://img.shields.io/pub/points/elgin_sat)
 ![Pub Likes](https://img.shields.io/pub/likes/elgin_sat)
 ![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/brasizza/elgin_sat)
