@@ -31,22 +31,57 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 ### [🖨️ Sunmi](https://github.com/brasizza/sunmi_printer)
 - 📱 Integração com impressoras Sunmi.
 - 🚀 Suporte completo para impressão térmica.
+  
+  ![Pub Monthly Downloads](https://img.shields.io/pub/dm/sunmi_printer)
+![Pub Points](https://img.shields.io/pub/points/sunmi_printer)
+![Pub Likes](https://img.shields.io/pub/likes/sunmi_printer)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/brasizza/sunmi_printer)
+![GitHub contributors](https://img.shields.io/github/contributors/brasizza/sunmi_printer)
 
 ### [🖨️ Elgin](https://github.com/brasizza/elgin)
 - ✍️ Biblioteca para comunicação com impressoras Elgin.
 - 🔧 Configuração e personalização avançada.
+  
+![Pub Monthly Downloads](https://img.shields.io/pub/dm/elgin)
+![Pub Points](https://img.shields.io/pub/points/elgin)
+![Pub Likes](https://img.shields.io/pub/likes/elgin)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/brasizza/elgin)
+![GitHub contributors](https://img.shields.io/github/contributors/brasizza/elgin)
+
 
 ### [📄 Danfe](https://github.com/brasizza/danfe)
 - 🧾 Geração de DANFE para documentos fiscais eletrônicos.
 - 📊 Compatível com diferentes layouts fiscais.
 
+
+  ![Pub Monthly Downloads](https://img.shields.io/pub/dm/danfe)
+![Pub Points](https://img.shields.io/pub/points/danfe)
+![Pub Likes](https://img.shields.io/pub/likes/danfe)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/brasizza/danfe)
+![GitHub contributors](https://img.shields.io/github/contributors/brasizza/danfe)
+
+
 ### [📱 Gertec GS300](https://github.com/brasizza/gertec_gs300)
 - 📟 Suporte para dispositivos Gertec GS300.
 - 🔗 Conexão e operação otimizadas.
+  
+  ![Pub Monthly Downloads](https://img.shields.io/pub/dm/gertec_gs300)
+![Pub Points](https://img.shields.io/pub/points/gertec_gs300)
+![Pub Likes](https://img.shields.io/pub/likes/gertec_gs300)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/brasizza/gertec_gs300)
+![GitHub contributors](https://img.shields.io/github/contributors/brasizza/gertec_gs300)
+
 
 ### [🖨️ Elgin SAT](https://github.com/brasizza/elgin_sat)
 - 📠 Integração com sistemas SAT utilizando dispositivos Elgin.
 - 💼 Foco em automação comercial.
+  
+![Pub Monthly Downloads](https://img.shields.io/pub/dm/elgin_sat)
+![Pub Points](https://img.shields.io/pub/points/elgin_sat)
+![Pub Likes](https://img.shields.io/pub/likes/elgin_sat)
+![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/brasizza/elgin_sat)
+![GitHub contributors](https://img.shields.io/github/contributors/brasizza/elgin_sat)
+
 
 ---
 
