@@ -7,6 +7,7 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 ## 📁 Projetos em Destaque
 
 ### [🖨️ Sunmi](https://github.com/brasizza/sunmi_printer)
+### <img src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png?raw=true" width="24">[Pub dev](https://pub.dev/packages/sunmi_printer_plus)
 - 📱 Integração com impressoras Sunmi.
 - 🚀 Suporte completo para impressão térmica.
   
@@ -17,6 +18,8 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 ![GitHub contributors](https://img.shields.io/github/contributors/brasizza/sunmi_printer)
 
 ### [🖨️ Elgin](https://github.com/brasizza/elgin)
+### <img src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png?raw=true" width="24">[Pub dev](https://pub.dev/packages/elgin)
+
 - ✍️ Biblioteca para comunicação com impressoras Elgin.
 - 🔧 Configuração e personalização avançada.
   
@@ -28,6 +31,8 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 
 
 ### [📄 Danfe](https://github.com/brasizza/danfe)
+### <img src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png?raw=true" width="24">[Pub dev](https://pub.dev/packages/danfe)
+
 - 🧾 Geração de DANFE para documentos fiscais eletrônicos.
 - 📊 Compatível com diferentes layouts fiscais.
 
@@ -40,6 +45,8 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 
 
 ### [📱 Gertec GS300](https://github.com/brasizza/gertec_gs300)
+### <img src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png?raw=true" width="24">[Pub dev](https://pub.dev/packages/gertec_gs300)
+
 - 📟 Suporte para dispositivos Gertec GS300.
 - 🔗 Conexão e operação otimizadas.
   
@@ -51,6 +58,8 @@ Bem-vindo ao meu GitHub! Aqui você encontrará uma coleção de projetos e repo
 
 
 ### [🖨️ Elgin SAT](https://github.com/brasizza/elgin_sat)
+### <img src="https://github.com/github/explore/blob/main/topics/flutter/flutter.png?raw=true" width="24">[Pub dev](https://pub.dev/packages/elgin_sat)
+
 - 📠 Integração com sistemas SAT utilizando dispositivos Elgin.
 - 💼 Foco em automação comercial.
   
